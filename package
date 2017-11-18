@@ -1,0 +1,12 @@
+{
+  "name": "Foromiun Bot",
+  "description": "Foromiun Bot 24/7"
+  "version": "2.12.1",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0"
+  }
+}
